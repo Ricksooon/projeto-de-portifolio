@@ -1,30 +1,56 @@
-# Portfólio de Rickson Rodrigues — versão dark
+# 👨‍💻 Rickson Rodrigues | Analista de Dados
 
-Site estático em HTML, CSS e JavaScript, preparado para GitHub Pages.
+Bem-vindo ao meu portfólio profissional!
 
-## Como publicar no repositório existente
+Sou formado em **Tecnologia em Banco de Dados** pela Universidade Cruzeiro do Sul e estou direcionando minha carreira para a área de **Análise de Dados e Business Intelligence**.
 
-1. Baixe e extraia `rickson-portfolio-dark.zip`.
-2. Entre em https://github.com/Ricksooon/projeto-de-portifolio
-3. Antes de substituir arquivos, se quiser preservar a versão anterior, faça download do repositório ou crie uma branch.
-4. Envie `index.html` para a raiz do repositório `projeto-de-portifolio` e confirme o commit. Este pacote é simples: não requer npm, build nem dependências.
-5. Em **Settings → Pages**, confira se a publicação está configurada para a branch principal e a pasta `/ (root)`.
-6. Aguarde o GitHub Pages publicar. O endereço esperado é https://ricksooon.github.io/projeto-de-portifolio/
+Tenho conhecimentos em SQL, Power BI, Excel e Python, aplicados em projetos práticos de análise, exploração e visualização de dados.
 
-## Conteúdo incluído
+## 🌐 Portfólio online
 
-- Apresentação profissional e links para LinkedIn/GitHub
-- Projetos: SuperStore/RFM/Cohort, campanha iFood e análise de vendas com Excel
-- Filtros de projetos por categoria
-- Seções sobre, habilidades, método de análise e contato
-- Layout responsivo para celular e computador
+Acesse meu portfólio:  
+https://ricksooon.github.io/projeto-de-portifolio/
 
-## Antes de divulgar
+## 🛠️ Tecnologias e ferramentas
 
-- Confirme que a formação está descrita de acordo com o diploma.
-- Revise cada descrição de projeto e mantenha apenas ferramentas realmente usadas.
-- Acrescente screenshots reais dos dashboards e resultados quantitativos apenas depois de conferir os arquivos originais.
-- Confirme se o e-mail público continua correto.
-- Se tiver um currículo PDF atualizado, pode ser incluído posteriormente.
+- **SQL:** consultas e manipulação de dados.
+- **Power BI:** análise e visualização de dados.
+- **Excel:** organização e análise de informações.
+- **Python:** exploração e análise de dados.
 
-Este pacote não altera seu GitHub automaticamente; você precisa enviar o arquivo ao repositório para publicar a nova versão.
+## 📊 Projetos em destaque
+
+### 1. Análise RFM e Cohort — SuperStore
+Projeto de análise de vendas e comportamento de clientes, explorando segmentação e retenção.
+
+[Ver projeto no GitHub](https://github.com/Ricksooon/analise-rfm-cohort-python)
+
+### 2. Análise de campanha de marketing — iFood
+Projeto de exploração de dados relacionados a campanhas de marketing.
+
+[Ver projeto no GitHub](https://github.com/Ricksooon/analise-capanha-de-markting)
+
+### 3. Análise de vendas e desempenho — Excel
+Projeto voltado à análise de dados de vendas e acompanhamento de desempenho.
+
+[Ver projeto no GitHub](https://github.com/Ricksooon/analise-vendas-desempenho-excel)
+
+## 🎓 Formação
+
+**Tecnologia em Banco de Dados**  
+Universidade Cruzeiro do Sul — Concluído em junho de 2026.
+
+## 🎯 Objetivo profissional
+
+Busco minha primeira oportunidade profissional como **Analista de Dados Júnior ou Analista de BI Júnior**, onde possa aplicar meus conhecimentos, desenvolver soluções orientadas por dados e contribuir para a tomada de decisões.
+
+## 📬 Contato
+
+- **LinkedIn:** https://www.linkedin.com/in/rickson-rodrigues-2a0a6b236/
+- **GitHub:** https://github.com/Ricksooon
+- **Portfólio:** https://ricksooon.github.io/projeto-de-portifolio/
+- **E-mail:** ricksonrodrigues211@gmail.com
+
+---
+
+*Obrigado por visitar meu portfólio!*
